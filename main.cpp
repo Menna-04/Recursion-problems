@@ -7,7 +7,7 @@ if (n >= 1 && n <= 100)
 {
 
  print (n-1);
-cout << "I love Recursion"  << endl;
+cout << n  << endl;
 }};
 int main() {
 int n;
